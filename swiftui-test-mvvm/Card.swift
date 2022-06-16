@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct Card: View {
-    @State var value: String = ""
+    @State private var value: String = ""
     let onEdit: ((String) -> Void)
 
     var body: some View {
