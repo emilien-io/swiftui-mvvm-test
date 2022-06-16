@@ -7,7 +7,7 @@ In this project we use SwiftUI properties wrappers to reflect a textfield's valu
 # Properties wrappers
 
 > State is inevitable in any modern app, but with SwiftUI it’s important to remember that all of our views are simply functions of their state – we don’t change the views directly, but instead manipulate the state and let _that_ dictate the result.
-*(Paul Husdon, on [hackingwithswift](https://www.hackingwithswift.com/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject)*
+*(Paul Husdon, on [hackingwithswift](https://www.hackingwithswift.com/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject))*
 
 Properties wrappers are one of the biggest features of SwiftUI. Some of them allows you to manage the state of your application.
 
